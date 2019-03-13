@@ -6,3 +6,4 @@
 - Lab3: Optimization(SGD、SGD+Momentum、Adam)
 - Lab4: Simple Neural Network using Pytorch&Torchbearer
 - Lab5: Convolutional Neural Network
+- Lab6: Transfer Learning, Pretrain

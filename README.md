@@ -8,3 +8,4 @@
 - Lab5: Convolutional Neural Network
 - Lab6: Transfer Learning, Pretrain
 - Lab7: Recurrent Neural Network
+- Lab8: Auto Encoder
